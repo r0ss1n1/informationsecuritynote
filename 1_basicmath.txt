@@ -1,0 +1,417 @@
+Schaum's Outline of Basic Mathematics
+
+
+####@ Brief Contents
+
+# 1. Decimal Fractions
+# 2. Measurement and Scientific Notation
+# 3. Common Fractions
+# 4. Percentage
+# 5. Essentials of Algebra
+# 6. Ratio and Proportion
+# 7. Linear Equations
+# 8. Exponents and Radicals
+# 9. Logarithms
+# 10. Quadratic Equations and Square Roots
+## 11. Essentials of Plane Geometry
+## 12. Solid Figures
+## 13. Trigonometric Functions
+## 14. Solution of Triangles
+## 15. Vectors
+## 16. Radian Measure
+## 17. Conic Sections
+## 18. Numbering Systems
+## 19. Arithmetic Operations in a Computer
+## 20. Counting Methods
+## 21. Probability and Odds
+## 22. Statistics
+
+Appendix
+Index
+
+
+
+####@ Table of Contents
+
+# 1. Decimal Fractions
+
+1.1 The Decimal System
+1.2 Decimal Fractions
+1.3 Position Diagram for Decimals
+1.4 Importance of Decimal Fractions
+1.5 Reading Numbers with Decimal Fractions
+1.6 Writing Numbers with Decimal Fractions
+1.7 Basic Laws of Arithmetic
+1.8 Addition of Decimals
+1.9 Subtraction of Decimals
+1.10 Multiplication of Decimals
+1.11 Division of Decimals
+1.12 Rounding off Decimals
+
+
+# 2. Measurement and Scientific Notation
+
+2.1 Basic Concepts
+2.2 Experimental Errors or Uncertainties
+2.3 Accuracy
+2.4 Precision
+2.5 Significant Figures--Definition
+2.6 Reading Significant Figures
+2.7 Operations with Significant Figures
+2.8 Definition--Scientific Notation
+2.9 Advantages of Scientific Notation
+2.10 Conversion to and from Scientific Notation
+2.11 Operations with Scientific Notation
+2.12 Approximate Computations with Scientific Notation
+2.13 Order of Magnitude
+2.14 Conversion of Units
+2.15 The International System of Units
+2.16 Prefixes and Decimal Multipliers
+
+
+# 3. Common Fractions
+
+3.1 Fractions and Measurement
+3.2 Terms
+3.3 Reading and Writing Fractions
+3.4 Basic Principle
+3.5 Reduction to Lowest Terms
+3.6 Comparison of Fractions
+3.7 Addition of Fractions
+3.8 Subtraction of Fractions
+3.9 Multiplication of Fractions
+3.10 Division of Fractions
+3.11 Reciprocals
+3.12 Conversion of Common Fractions into Decimal Fractions
+
+
+# 4. Percentage
+
+4.1 Terms
+4.2 Percent and Fractions
+4.3 Percent of a Quantity
+4.4 Percent from Percentage
+4.5 Quantity from Percentage and Percent
+4.6 Percent Error or Uncertainty
+4.7 Percent of Difference
+4.8 Uncertainties in Scale Readings
+
+
+# 5. Essentials of Algebra
+
+5.1 Terminology
+5.2 The Number Line
+5.3 Absolute Value
+5.4 Operations with Signed Numbers
+5.5 Operations with Monomials
+5.6 Use of Grouping Symbols
+5.7 Operations with Polynomials
+5.8 Simple Products
+5.9 Factoring
+5.10 Cancellation
+5.11 Operations with Algebraic Fractions
+5.12 Equations--Definitions
+5.13 Solutions of Linear Equations
+
+
+# 6. Ratio and Proportion
+
+6.1 Ratio--Basic Concepts
+6.2 Proportion--Basic Concepts
+6.3 Direct Proportion
+6.4 Inverse Proportion
+
+
+# 7. Linear Equations
+
+7.1 Function
+7.2 Variables
+7.3 Linear Function
+7.4 Functional Representation
+7.5 Slope
+7.6 Negative Slope
+7.7 Direct Proportion
+7.8 Applications
+7.9 Linear Equation
+7.10 Representation
+7.11 Negative Slope
+7.12 Zero Slope
+7.13 Applications
+7.14 Intercepts of a Line
+7.15 Empirical Equations
+7.16 Good Graphing Practices
+7.17 Graphing the Special Linear Function y = mx
+7.18 Graphing the General Linear Function y = mx + b
+7.19 Graphing Linear functions with a Calculator
+
+
+# 8. Exponents and Radicals
+
+8.1 Exponential Form
+8.2 Positive Integral Exponent
+8.3 Reading Exponential Notation
+8.4 Zero Exponent
+8.5 Negative Integral Exponent
+8.6 Roots
+8.7 Principal nth Root
+8.8 Radical, Radicand, and Index
+8.9 Fractional Exponents
+8.10 Power Function
+8.11 Variation
+8.12 Direct Variation
+8.13 Inverse Variation
+8.14 Graphs of Power Functions
+8.15 Graphing Power Functions with a Calculator
+8.16 Determining Empirical Equations of Power Functions
+8.17 Joint Variation
+8.18 Formulas
+
+
+# 9. Logarithms
+
+9.1 Numbers as Powers
+9.2 Definition of a Logarithm
+9.3 Common Logarithms
+9.4 Negative Logarithms
+9.5 Parts of a Logarithm
+9.6 Logarithmic Tables
+9.7 Antilogarithms
+9.8 The First Law of Logarithms
+9.9 The Second Law of Logarithms
+9.10 The Third Law of Logarithms
+9.11 Conversion to a Different Base
+9.12 Exponential Functions
+9.13 Exponential Equations
+9.14 Logarithmic Functions
+9.15 Logarithmic Equations
+9.16 Growth and Decay
+9.17 Logarithmic Graph Paper
+9.18 Semilogarithmic Paper
+
+
+# 10. Quadratic Equations and Square Roots
+
+10.1 Quadratic Equation
+10.2 Solution
+10.3 Pure Quadratic Equations
+10.4 Quadratic Equations by Factoring
+10.5 The Quadratic Formula
+10.6 Using a Graphing Calculator to Solve Quadratic Equations
+10.7 Irrational Solutions
+10.8 Table of Square Roots
+10.9 Iterative Method
+10.10 Traditional Method
+10.11 Logarithmic Method
+10.12 Finding Square Roots with a Calculator
+
+
+# 11. Essentials of Plane Geometry
+
+11.1 Terms
+11.2 Lines
+11.3 Symbols
+11.4 Selected Geometrical Facts
+11.5 Angle--Types
+11.6 Theorems on Equal Angles
+11.7 Theorems on Supplementary Angles
+11.8 The Degree Measure
+11.9 Angle Operations with a Calculator
+11.10 An Abbreviated Method to Carry Out Arithmetic Operations with Angles Using a Calculator
+11.11 Parts of a Triangle
+11.12 Types of Triangles
+11.13 Congruence of Triangles
+11.14 Similarity of Triangles
+11.15 Other Theorems on Triangles
+11.16 The Pythagorean Theorem
+11.17 Quadrilaterals--Terms
+11.18 Theorems on Parallelograms
+11.19 Circles and Arcs--Terms
+11.20 Theorems on Circles and Arcs
+11.21 Bisecting a Line Segment
+11.22 Bisecting an Angle
+11.23 Erecting a Perpendicular to a Given Line from a Given Point Not on the Line
+11.24 Erecting a Perpendicular to a Line at a Given Point on the Line
+11.25 Drawing a Parallel to a Given Line
+11.26 Dividing a Given Line Segment into a Given Number of Equal Parts
+11.27 Finding the Center of a Circle from a Given Arc
+11.28 Perimeter
+11.29 Area
+
+
+# 12. Solid Figures
+
+12.1 Polyhedrons
+12.2 Cylinders
+12.3 Cones
+12.4 Spheres
+12.5 Similar Solids
+12.6 Area of a Prism
+12.7 Area of a Pyramid
+12.8 Area of a Cylinder
+12.9 Area of a Cone
+12.10 Area of a Sphere
+12.11 Areas of Similar Solids
+12.12 Volume of a Prism
+12.13 Volume of a Pyramid
+12.14 Volume of a Cylinder
+12.15 Volume of a Cone
+12.16 Volume of a Sphere
+12.17 Volumes of Similar Solids
+
+
+# 13. Trigonometric Functions
+
+13.1 Trigonometry
+13.2 Ratios in Similar Triangles
+13.3 Definitions from Triangle Ratios
+13.4 Definitions from Coordinates
+13.5 Trigonometric Tables
+13.6 Trigonometric Functions of Special Angles
+13.7 Calculating Trigonometric Functions with a Calculator
+13.8 Cofunctions
+13.9 Signs of Trigonometric Functions
+13.10 Trigonometric Identities
+
+
+# 14. Solution of Triangles
+
+14.1 Right Triangles--One Known Side and One Known Acute Angle
+14.2 Right Triangles--Two Known Sides
+14.3 The Law of Sines
+14.4 The Law of Cosines
+
+
+# 15. Vectors
+
+15.1 Terms
+15.2 Vector Representation
+15.3 Equality of Vectors
+15.4 Vector Addition--Graphical or Geometrical Method
+15.5 Vector Addition--Analytical Method
+15.6 The Negative of a Vector
+15.7 Subtraction of Vectors
+15.8 Vector Resolution or Decomposition
+15.9 Relationships Between a Vector and Its Components
+15.10 The Components of Vector Sums
+15.11 Vector Sum from Components
+
+
+# 16. Radian Measure
+
+16.1 Definition
+16.2 Basic Equation
+16.3 Relationship Between the Radian and Degree Measures
+16.4 Evaluating Trigonometric Functions of an Angle Using a Calculator
+16.5 Angular Speed
+16.6 Angular Velocity
+16.7 Angular and Linear Speeds
+16.8 Trigonometric Functions of Small Angles
+16.9 Applications
+16.10 Periodicity
+16.11 Graphs of y=sin(theta) and y=cos(theta)
+16.12 Graph of y=csink(theta)
+16.13 Graphs of Other Trigonometric Functions
+
+
+# 17. Conic Sections
+
+17.1 The Ellipse--Basic Concepts
+17.2 How to Draw an Ellipse
+17.3 How to Determine the Tangent to an Ellipse
+17.4 The Circle
+17.5 The Parabola--Basic Concepts
+17.6 Focusing Property of a Parabola
+17.7 The Hyperbola--Basic Concepts
+
+
+# 18. Numbering Systems
+
+18.1 The Binary, Octal, and Hexadecimal Systems
+18.2 Numerical Values in a Positional System and Their Decimal Equivalents
+18.3 Conversion of Decimal Number to Other Bases
+18.4 Conversion Between Hexadecimal and Binary Numbers
+18.5 Rules for Forming Numbers in Any System
+
+
+# 19. Arithmetic Operations in a Computer
+
+19.1 Review of Basic Concepts of Arithmetic
+19.2 Addition and Subtraction of Binary Numbers
+19.3 Addition and Subtraction of Hexadecimal Numbers
+19.4 Representing Nonnegative Integers in a Computer
+19.5 Computer Addition
+19.6 Representing Negative Integer Numbers in a Computer
+19.7 The Sign-Magnitude
+19.8 One's Complement
+19.9 Two's Complement
+19.10 Multiplication and Division of Binary Numbers
+
+
+# 20. Counting Methods
+
+20.1 Fundamental Counting Principle
+20.2 Factorial of a Number
+20.3 Permutations
+20.4 Arrangements with Duplicate Elements
+20.5 Circular Permutations
+20.6 Combinations
+
+
+# 21. Probability and Odds
+
+21.1 Probability and Sample Spaces
+21.2 Probability of Success and Failure
+21.3 Odds
+21.4 Probability of Independent and Dependent Events
+21.5 Probability of Exclusive Events
+21.6 Probability of Inclusive Events
+21.7 Conditional Probability
+
+
+# 22. Statistics
+
+22.1 Descriptive Versus Inferential Statistics
+22.2 Population and Samples. Parameters and Statistics
+22.3 Quantitative and Qualitative Data
+22.4 Frequency Distributions and Graphical Representation of the Data
+22.5 Bar Charts
+22.6 Pie Charts
+22.7 Frequency Distribution of Large Data Sets
+22.8 Determining the Class Width
+22.9 Class Relative Frequency
+22.10 Cumulative Frequency
+22.11 Histograms
+22.12 Measurements of Central Tendency
+22.13 Average or Arithmetic Mean
+22.14 Weighted Mean
+22.15 Median
+22.16 Mode
+22.17 Measures of Dispersion
+22.18 Sample Range
+22.19 Variance
+22.20 Standard Deviation
+22.21 Random Variable
+22.22 Normal Distribution
+22.23 Empirical Rule
+22.24 Converting Values into Standard Units
+22.25 Finding Areas Under the Normal Curve
+
+
+# Appendix.
+
+Mathematical Symbols. 
+Metric Unit Prefixes. 
+Mathematical Constants.
+Greek Alphabet.
+Squares and Square Roots.
+Common Logarithms
+Natural Trigonometric Functions.
+Units and Conversion Factors
+Miscellaneous Useful Constants
+Formula Summary
+Binomial Theorem
+Physical Constants
+Astronomical Constants
+Areas under the Standard Normal Curve from 0 to z.
+
+Index
